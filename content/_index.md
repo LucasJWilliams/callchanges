@@ -24,4 +24,4 @@ In the summer of 2021 we went on a family holiday to Devon and were fortunate en
 ![The Linford family getting ready to ring up at Alphington](Alphington.jpg)
 *The Linford family getting ready to ring up at Alphington*
 {{< /columns >}}
-This book therefore is not being written by some seasoned call change professional, but by someone who has started to integrate Devon call change ringing into the repertoire of a method ringing tower because I can see the value of doing it. I am basically writing it as I go along and hope that if you follow this you will also find a fulfilling addition to your repertoire.
+This book therefore is not being written by some seasoned call change professional, but by someone who has started to integrate Devon call change ringing into the repertoire of a method ringing tower because I can see the value of doing it. I am basically writing it as I go along and hope that if you follow this you will also find a fulfilling addition to your  repertoire.
