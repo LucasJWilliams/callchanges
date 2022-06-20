@@ -14,4 +14,4 @@ Finally Ian Avery, Graham Sharland, and other members of the Kingsteignton band 
 ---
 
 Simon Linford
-eBook first published 1st May 2022
+eBook first published 1st May 2022.
