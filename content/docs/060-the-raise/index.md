@@ -88,7 +88,7 @@ There is no silver bullet for being able to do this well unfortunately...
 Top of the list is not letting anyone go over the balance while still ringing one handed. This is very common and caused by a ringer’s fear of going two handed too early and not being in control, and by still pulling the backstroke too hard when the bell is nearly up. All ringers need to settle into the rhythm of pushing in the handstrokes and not pulling the backstrokes too firmly as the bells reach the balance.
 
 Here is another good example of a raise, this time at 
-{{ youtube 3geYzeys1_k}}
+{{< youtube 3geYzeys1_k>}}
 
 And just to show that when you are learning to do this and are not as experienced, here is an effort from Moseley. This is an average Sunday service band, used to ringing up in the ‘traditional way’ but with a few weeks of experimenting with ringing up in the Devon style. 
 
@@ -99,8 +99,12 @@ Practice makes perfect. Make a feature of the ringing up every time you ring, ra
 
 {{< hint danger >}}
 The main takeaways from this chapter are:
+
 •	The raise is a team game
+
 •	Speed is driven by the tenor
+
 •	The second needs to be very aware and get the gap right
+
 •	Handstrokes must be kept under close control from as early as possible 
 {{< /hint >}}
