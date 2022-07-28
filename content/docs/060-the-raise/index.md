@@ -20,9 +20,7 @@ This chapter is not going to teach you how to raise bells in peal. What it will 
 {{< columns >}}
 “It’s not rocket science – you just follow the bell in front of you” - Ian Avery
 <--->
-{{< hint danger >}}
 The treble starts the race,
 The second makes the space,
 The tenor sets the pace
-{{< /hint >}}
 {{< /columns >}}
