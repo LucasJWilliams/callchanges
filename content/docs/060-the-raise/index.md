@@ -47,11 +47,9 @@ So the bells all set off in an upwardly direction very close together, and it so
 That is a cue for the first demonstration video – just watch the first 40 seconds of this then pause it:
 {{< youtube KaWD8Y0MVJs >}} 
 
-{{< columns >}}
 Notice how the instruction at the beginning is just “going….gone” at which point all six ringers pull at the same time. There are two silent pulls, then a bigger pull that causes all bells to strike.
-<--->
+
 There is no convention for what to say to start off. Different bands develop their own way of doing it. As I have introduced this in my band it has taken a while to know how to start! Definitely having silence and a pause beforehand helps, then everyone needs to be clear when the treble is going to start pulling. Key is for your band to get consistent and understand the plan.
-{{< /columns >}}
 
 ## Phase 2
 
@@ -83,4 +81,26 @@ In the sort of ringing up you are probably used to, the slowing down at the end 
 
 Top call change bands have a very good understanding between the treble and tenor in particular and the slow down is gradual and relatively instinctive. “**The second makes the space**” – responsibility also falls on the second to make what might be an almost imperceptible opening up of the gap which the other bells can follow. If you’re thinking about where to put your best ringers, the second is a critical position. 
 
-There is no silver bullet for being able to do this well unfortunately... 
+There is no silver bullet for being able to do this well unfortunately...
+
+…although there are ways not to do it badly.
+
+Top of the list is not letting anyone go over the balance while still ringing one handed. This is very common and caused by a ringer’s fear of going two handed too early and not being in control, and by still pulling the backstroke too hard when the bell is nearly up. All ringers need to settle into the rhythm of pushing in the handstrokes and not pulling the backstrokes too firmly as the bells reach the balance.
+
+Here is another good example of a raise, this time at 
+{{ youtube 3geYzeys1_k}}
+
+And just to show that when you are learning to do this and are not as experienced, here is an effort from Moseley. This is an average Sunday service band, used to ringing up in the ‘traditional way’ but with a few weeks of experimenting with ringing up in the Devon style. 
+
+## Conclusion
+Raising bells like this is very much a team game. All the band needs to be listening to every bell to get a feel for how a raise is progressing. The treble ringer is clearly very important, and the tenor ringer too, but the other ringers have their roles in the team. The ringer of the second has a very important job to set the pace and get the gap exactly right all the way up, including when starting to slow down at the top, but unless the other bells are in the right place you don’t stand a chance of getting a decent raise.
+
+Practice makes perfect. Make a feature of the ringing up every time you ring, rather than just seeing it as a means to an end. It is part of the performance, and just as noticeable to those people outside the tower who can hear the bells. 
+
+{{< hint danger >}}
+The main takeaways from this chapter are:
+•	The raise is a team game
+•	Speed is driven by the tenor
+•	The second needs to be very aware and get the gap right
+•	Handstrokes must be kept under close control from as early as possible 
+{{< /hint >}}
