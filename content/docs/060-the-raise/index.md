@@ -18,7 +18,7 @@ In Devon, the raise and the lower – let’s use the terms they use now – are
 This chapter is not going to teach you how to raise bells in peal. What it will do is explain how it is done differently in Devon, and give some tips on how to do it better and what to watch out for. My local band has been ringing up in this different style for just a couple of months as I write this, and our raising is already better than it used to be. 
 
 {{< columns >}}
-“It’s not rocket science – you just follow the bell in front of you” - Ian Avery
+*“It’s not rocket science – you just follow the bell in front of you”* - Ian Avery
 <--->
 The treble starts the race,
 
@@ -76,3 +76,11 @@ If you all start together, go up steadily with the treble making sure to strike 
 {{< hint info >}}
 One of my criticisms of Devon call change ringing is that including the raise in every peal means that people who are not strong enough to pull up the back bells in peal, girls and women in particular, do not get a chance then to ring heavier bells during the call change ringing itself. As experience of ringing heavier bells is good for everyone and should be gender-blind, I think it is important to have at least some ringing that is done from set, or “off the stay” as it is described, to give everyone the chance to ring heavy bells.
 {{< /hint >}}
+
+## Phase 3
+
+In the sort of ringing up you are probably used to, the slowing down at the end happens because the treble opens up the handstroke gap. When ringing with closed handstroke leads you need a different way of slowing down, or getting to what I call ‘battle speed’. At battle speed the bells don’t quite go over the balance.  
+
+Top call change bands have a very good understanding between the treble and tenor in particular and the slow down is gradual and relatively instinctive. “**The second makes the space**” – responsibility also falls on the second to make what might be an almost imperceptible opening up of the gap which the other bells can follow. If you’re thinking about where to put your best ringers, the second is a critical position. 
+
+There is no silver bullet for being able to do this well unfortunately... 
