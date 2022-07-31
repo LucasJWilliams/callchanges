@@ -3,11 +3,11 @@ title: Chapter 5 - The Raise
 weight: 60
 ---
 
-# Chapter 4 – The Raise
+# Chapter 5 – The Raise
 
 In this chapter I am going to deal with what I think is one of the hardest aspects of Devon call change ringing, and that is the raise.
 
-Elsewhere in the ringing world, ringing up is seen as a means to an end. We need to get the bells up in order to be able to ring other things, and we do it once at the start of our ringing session. If our bells are a little bit heavy, or if as is often the case, a sub-optimal number of ringers have turned up on time, we may get some of the bells up singly, three at a time, or whatever gets the job done with the least pain. We generally don’t view it as a performance and striking in the raise it rarely critiqued let alone corrected.
+Elsewhere in the ringing world, ringing up is seen as a means to an end. We need to get the bells up in order to be able to ring other things, and we do it once at the start of our ringing session. If our bells are a little bit heavy, or if as is often the case, a sub-optimal number of ringers have turned up on time, we may get some of the bells up singly, three at a time, or whatever gets the job done with the least pain. We generally don’t view it as a performance, and striking in the raise it rarely critiqued let alone corrected.
 
 Let’s face it, ringing up in peal is difficult, and leading up in peal is very difficult. Fact. You are lucky if you regularly see it done well.
 
@@ -65,9 +65,9 @@ A number of things commonly go wrong in the raise but all these problems are ess
 
 What can also often happen is the 2 and 3 leave too much of a space – they don’t keep close enough to the treble, and can end up taking up more than half the space that each complete row needs to take up. On the smaller bells you really should feel that you are pushing the handstrokes right in and holding the backstrokes up. It’s a drive. 
 
-Even more common though is the treble just not going up at a speed that suits all the other ringer and not understanding what is going wrong – too fast and you lose those who cannot pull hard enough or keep up – too slow and others will go up too fast. 
+Even more common though is the treble just not going up at a speed that suits all the other ringers and not understanding what is going wrong – too fast and you lose those who cannot pull hard enough or keep up – too slow and others will go up too fast. 
 
-The bottom line is that “The tenor sets the pace” – you cannot go up faster than the tenor can manage or they will end up with a hernia (common tenor ringer condition). So the tenor effectively sets the pace, and the other bells fit in.
+The bottom line is that “**The tenor sets the pace**” – you cannot go up faster than the tenor can manage or they will end up with a hernia (common tenor ringer condition). So the tenor effectively sets the pace, and the other bells fit in.
 
 If you all start together, go up steadily with the treble making sure to strike immediately after the tenor both strokes, it ought to work. “It’s not rocket science -you just follow the bell in front of you.”
 
@@ -105,6 +105,8 @@ The main takeaways from this chapter are:
 •	Speed is driven by the tenor
 
 •	The second needs to be very aware and get the gap right
+
+• Push the handstrokes in to get the backstrokes up
 
 •	Handstrokes must be kept under close control from as early as possible 
 {{< /hint >}}
