@@ -90,7 +90,8 @@ Top of the list is not letting anyone go over the balance while still ringing on
 Here is another good example of a raise, this time at 
 {{< youtube 3geYzeys1_k>}}
 
-And just to show that when you are learning to do this and are not as experienced, here is an effort from Moseley. This is an average Sunday service band, used to ringing up in the ‘traditional way’ but with a few weeks of experimenting with ringing up in the Devon style. 
+And just to show that when you are learning to do this and are not as experienced, here is an effort from Moseley. This is an average Sunday service band, used to ringing up in the ‘traditional way’ but with a few weeks of experimenting with ringing up in the Devon style. You can decide which of the faults identified above we are guilty of!
+{{< youtube IdPQYDXqUNg>}}
 
 ## Conclusion
 Raising bells like this is very much a team game. All the band needs to be listening to every bell to get a feel for how a raise is progressing. The treble ringer is clearly very important, and the tenor ringer too, but the other ringers have their roles in the team. The ringer of the second has a very important job to set the pace and get the gap exactly right all the way up, including when starting to slow down at the top, but unless the other bells are in the right place you don’t stand a chance of getting a decent raise.
