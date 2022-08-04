@@ -71,10 +71,6 @@ The bottom line is that “**The tenor sets the pace**” – you cannot go up f
 
 If you all start together, go up steadily with the treble making sure to strike immediately after the tenor both strokes, it ought to work. “It’s not rocket science -you just follow the bell in front of you.”
 
-{{< hint info >}}
-One of my criticisms of Devon call change ringing is that including the raise in every peal means that people who are not strong enough to pull up the back bells in peal, girls and women in particular, do not get a chance then to ring heavier bells during the call change ringing itself. As experience of ringing heavier bells is good for everyone and should be gender-blind, I think it is important to have at least some ringing that is done from set, or “off the stay” as it is described, to give everyone the chance to ring heavy bells.
-{{< /hint >}}
-
 ## Phase 3
 
 In the sort of ringing up you are probably used to, the slowing down at the end happens because the treble opens up the handstroke gap. When ringing with closed handstroke leads you need a different way of slowing down, or getting to what I call ‘battle speed’. At battle speed the bells don’t quite go over the balance.  
