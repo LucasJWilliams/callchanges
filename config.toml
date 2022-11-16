@@ -1,8 +1,9 @@
-baseURL = 'https://cccbr.github.io/callchanges'
+baseURL = 'https://callchanges.cccbr.org.uk'
 languageCode = 'en-us'
 title = 'Devon Call Changes'
 theme = 'hugo-book'
 sidebar_search_disable = true
+publishDir = "docs/"
 
 [params]
   BookLogo = 'favicon.png'
