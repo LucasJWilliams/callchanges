@@ -31,7 +31,7 @@ I said this chapter wasn’t about teaching you to ring down, however I do want 
 {{< columns >}}
 First the analogy. Imagine a line of rowing boats with their rowers all trying to keep their boats moving forward at exactly the same speed. If one of them is getting slower they will fall behind, and in order to catch up with the others the rower will need to row harder. Their boat speeds up and is now going faster than the others, and it’s only a matter of time before they draw level.
 <--->
-![Rowing](rowing.jpeg)
+![Rowing](rowing.jpg)
 {{< /columns >}}
 
 What happens then though? The boat that has caught up is going faster than the others and overtakes them! It is only level with the other boats for a fleeting moment. In order to get back in line, the rower eases off and their boat slows down. They are now going slower than the other boats. In a scene reminiscent of [Gerard Hoffnung’s “Bricklayer’s Lament”](https://youtu.be/zZUJLO6lMhI) , they go back past the other boats, but this time in the other direction.
@@ -51,3 +51,29 @@ Moving up the rope is a gradual process. Nibble away with the coil hand – don�
 Notice again at the end of that peal, how they finish. You may be used to a lower which finishes with the front bells still swinging quite high when we catch at the end, and then the bells are brought to an abrupt halt. Notice in the Hawkesbury video how the trebles are hardly swinging at all at the bottom, and when the bells are called to ‘stop’ there is no risk of the clappers hitting the bells again.
 
 Finally, here is another video of a Devon band doing this really well. 
+
+{{< youtube 3geYzeys1_k >}}
+
+and one of my local band not doing it so well, but still not too bad.
+
+Insert video from Dropbox
+
+I said earlier in this chapter how the lower is included in the judging of Devon call change competitions. Faults are awarded for imperfect rows in the lower just as harshly as they are when the bells are at the top. I had always wondered how you can actually do a fall perfectly and hence get no faults because there is that point right near the bottom where the tenor stops striking on one side before the front bells do, and it becomes impossible to keep the treble striking exactly after the tenor both strikes.
+
+When I asked this question of the Devon experts, I was told that the trick is to just make that phase of the lower as short as possible, so you bring the bells in really quickly at the end. You can see that in the videos in this chapter. For the top call change bands, the end of the lower is one of the most difficult parts of an entire performance. 
+
+{{< hint danger >}}
+The main takeaways from this chapter are:
+
+•	The lower is a team game (I think I’ve said that before)
+
+•	Front bells will fall too quickly if you’re not careful – keep them up especially at backstroke
+
+•	Everyone needs to keep working on the handstrokes – they will not place themselves
+
+•	The first coil is high risk – encourage the front bells in particular not to take it too early, or take in extra rope at the same time as making the coil. Maybe overpull slightly.
+
+•	The back bells will need to work very hard at the end to bring the bells in quickly
+
+•	The style is not to have a miss and catch at the end – just stop. No stray dings!
+{{< /hint >}}
