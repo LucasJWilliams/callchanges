@@ -56,7 +56,7 @@ Finally, here is another video of a Devon band doing this really well.
 
 and one of my local band not doing it so well, but still not too bad.
 
-Insert video from Dropbox
+{{< youtube eQJWVnZdbuc >}}
 
 I said earlier in this chapter how the lower is included in the judging of Devon call change competitions. Faults are awarded for imperfect rows in the lower just as harshly as they are when the bells are at the top. I had always wondered how you can actually do a fall perfectly and hence get no faults because there is that point right near the bottom where the tenor stops striking on one side before the front bells do, and it becomes impossible to keep the treble striking exactly after the tenor both strikes.
 
