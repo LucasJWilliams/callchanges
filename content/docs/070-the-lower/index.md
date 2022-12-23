@@ -24,13 +24,30 @@ In your average fall by a method ringing band, ringers tend to concentrate on th
 
 The final thing to notice at the end of that clip is the standard way of finishing a Devon style lower. Gone is the “After three, miss one and catch in Queens”. They have the bells right down and then just stop, either after a count or just a call from the treble. Note the treble bell is still swinging but she doesn’t check it and risk an extra ding! An extra ding at the end is a career-limiting error.
 
-*TheRowing Boat Analogy*
+*The Rowing Boat Analogy*
+
 I said this chapter wasn’t about teaching you to ring down, however I do want to discuss just one aspect of ringing down that causes the most issues, and how to avoid it. It also gives me the opportunity to introduce an analogy that works very well. 
 
-
-
 {{< columns >}}
-![Sheepdog](Sheepdog.jpeg)
+First the analogy. Imagine a line of rowing boats with their rowers all trying to keep their boats moving forward at exactly the same speed. If one of them is getting slower they will fall behind, and in order to catch up with the others the rower will need to row harder. Their boat speeds up and is now going faster than the others, and it’s only a matter of time before they draw level.
 <--->
-I used to like watching “One man and his dog”, with Phil Drabble, and I often use sheepdog trialling analogies when ringing up. When I am leading up I am the sheepdog, and the other five ringers are my sheep. After the initial ‘lift’ when you get the sheep moving and start them trotting off in the right direction, you need to maintain a steady pace with no sudden shocks – nothing that will upset the sheep too much. If you see one of your sheep going astray, you need to keep the rest of the pack together while gradually scooping up the errant sheep and getting them back in – then you can continue the drive. Every so often, and we’ve all been there, the sheep go completely mad and scatter all over the field! 
+![Rowing](rowing.jpeg)
 {{< /columns >}}
+
+What happens then though? The boat that has caught up is going faster than the others and overtakes them! It is only level with the other boats for a fleeting moment. In order to get back in line, the rower eases off and their boat slows down. They are now going slower than the other boats. In a scene reminiscent of [Gerard Hoffnung’s “Bricklayer’s Lament”](https://youtu.be/zZUJLO6lMhI) , they go back past the other boats, but this time in the other direction.
+
+This is a great analogy for ringing down (and up). The raise and lower are about controlling the *rate of change of speed* of the bell. In order to get a bell back into the right place it needs to be eased back, slowing down its rate of change as it gets to the right place, so as not to overshoot.
+
+The problem is typically, and often dramatically or even fatally, exhibited by someone on a lighter bell taking a coil too early, taking in too much rope, and bringing their bell down. I often say to those following me “don’t take a coil before I do”, and I am always ready to give ‘encouragement’ to anyone who has let their bell drop in the coil-making process. The sheepdog keeps a beady eye on those sheep 😊.
+
+Dropping a bell on taking the first coil also happens when the ringer just doesn’t pull hard enough during that crucial stroke. It’s the momentary lack of focus from thinking about making the coil – the handstroke doesn’t get the same attention, the coil is made, the backstroke drops a bit, and the pathway to disaster opens up.
+
+I asked my Devonian experts for any tips here and I got the following: “at the start of the fall, particularly on the lighter bells, it is beneficial to put a little more energy through the rope, i.e overpull slightly on both strokes, to ensure that when you do take the first couple of coils the bell doesn't drop. Once you're past that initial part of the fall then you can reduce the pull and concentrate on placing the handstroke in the correct place each time.”
+
+Moving up the rope is a gradual process. Nibble away with the coil hand – don’t take in too much, keep the rope tight at backstroke. Sliding the top hand down the rope after pulling the sally definitely helps with getting the backstroke exactly in the right place as there is more ‘feel’ for where the bell is. Notice in the lower in the following video from Hawkesbury (the lower starts at around 14 minutes) how the ringer on the 2nd takes her first coil with her hands a long way apart at backstroke and deftly makes the coil as hands start to descend. 
+
+{{< youtube SbPKhEhdGtY >}}
+
+Notice again at the end of that peal, how they finish. You may be used to a lower which finishes with the front bells still swinging quite high when we catch at the end, and then the bells are brought to an abrupt halt. Notice in the Hawkesbury video how the trebles are hardly swinging at all at the bottom, and when the bells are called to ‘stop’ there is no risk of the clappers hitting the bells again.
+
+Finally, here is another video of a Devon band doing this really well. 
