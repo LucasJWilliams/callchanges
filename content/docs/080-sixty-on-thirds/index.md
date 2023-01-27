@@ -52,9 +52,9 @@ So that is all the work of the 3rd being moved to the back. The next bell to wor
 ## Half Peal
 That gets us to a very convenient point, at 6:35 on the video. The 3rd and 5th have done their work and are sitting at the back before the tenor. The treble has hunted up and down a few times and the change is 124356.
 
-At this point you can just call it round for what is known as a Half Peal. My band has found this to be a convenience place to stop, either because we are knackered, or it has taken enough time and we want to ring something else, or because the ringing hasn’t been good enough and we’ve not wanted to prolong the agony. 
+At this point you can just call it round for what is known as a Half Peal. My band has found this to be a convenient place to stop, either because we are knackered, or it has taken enough time and we want to ring something else, or because the ringing hasn’t been good enough and we’ve not wanted to prolong the agony. 
 
-This band however carries on and you are going to try and follow the rest of it though, so pick up the video again from 6:35. If you want to print off the figures they can be found [here](/files/sixties_on_thirds.pdf). 
+This band however carries on and you are going to try and follow the rest of it, so pick up the video again from 6:35. If you want to print off the figures they can be found [here](/files/sixties_on_thirds.pdf). 
 
 The 2nd is going to be the next working bell (giving the 4th its first opportunity at leading), and finally the 4th.
 
